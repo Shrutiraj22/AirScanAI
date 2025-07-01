@@ -1,8 +1,4 @@
-Sure! Here's a **single clean README document** you can directly copy and paste into your GitHub `README.md` file:
 
----
-
-```markdown
 #  AirScanAI: Aerial Threat Detection Dashboard
 
 **AirScanAI** is a real-time simulation tool that combines radar data and computer vision to detect and track aerial objects such as drones and UAVs. It mimics the type of multi-sensor threat detection used in defense systems like those built by DRDO labs (ADE, ADRDE, CABS, etc.).
@@ -82,19 +78,6 @@ timestamp,signal_strength,object_distance,latitude,longitude
 * Pandas & NumPy
 * Streamlit
 * Custom Kalman Filter
-
----
-
-##  Ideal Use Case
-
-Designed for:
-
-* Defense simulation projects
-* DRDO internship applications (ADE, ADRDE, CABS, GTRE)
-* Real-time tracking demos
-* AI + Big Data portfolios
-
----
 
 ##  Author
 
