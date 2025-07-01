@@ -82,3 +82,11 @@ timestamp,signal_strength,object_distance,latitude,longitude
 ##  Author
 
 **Shruti Raj**
+## 📸 Demo Screenshots
+
+### Real-time Dashboard View
+![Dashboard View](dashboard.png)
+
+### Radar & Camera Tracking in Sync
+![Radar Tracking](radar_tracking.png)
+
