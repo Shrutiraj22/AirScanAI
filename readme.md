@@ -84,9 +84,16 @@ timestamp,signal_strength,object_distance,latitude,longitude
 **Shruti Raj**
 ## 📸 Demo Screenshots
 
-### Real-time Dashboard View
-![Dashboard View](dashboard.png)
+
+### 📏 Estimated Object Distance vs Frequency
+![Object Distance](objdist_vs_frequency.png)
+
+### 📶 Signal Strength vs Frequency
+![Signal Strength](signalstrength_vs_frequency.png)
 
 ### Radar & Camera Tracking in Sync
 ![Radar Tracking](radar_tracking.png)
+
+### Real-time Dashboard View
+![Dashboard View](dashboard.png)
 
